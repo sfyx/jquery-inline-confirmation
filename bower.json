@@ -2,16 +2,22 @@
   "name": "jquery-inline-confirmation",
   "description": "Inline Confirmation plugin for jQuery",
   "version": "1.4.2",
-  "homepage": "",
+  "homepage": "https://github.com/sfyx/jquery-inline-confirmation",
   "license": "MIT",
   "copyright": "First+Third",
-  "main": "js/jquery.inline-confirmation.js",
+  "main": "jquery.inline-confirmation.js",
   "dependencies": {
     "jquery": "*"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "onoo.yokoo@outlook.com"
   ]
 }
