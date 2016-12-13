@@ -1,0 +1,17 @@
+{
+  "name": "jquery-inline-confirmation",
+  "description": "Inline Confirmation plugin for jQuery",
+  "version": "1.4.2",
+  "homepage": "",
+  "license": "MIT",
+  "copyright": "First+Third",
+  "main": "js/jquery.inline-confirmation.js",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "devDependencies": {
+
+  },
+  "ignore": [
+  ]
+}
